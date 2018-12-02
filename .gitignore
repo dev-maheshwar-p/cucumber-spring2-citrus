@@ -1,0 +1,17 @@
+.classpath
+.project
+.settings/
+log4j-application.log
+chromedriver
+chromedriver.exe
+chromedriver2.exe
+target/
+SCREENSHOTS/
+.DS_Store
+test-output/*
+*log*
+FFDC/*
+**/bin/*
+**/.idea/**
+SerenityCucumberJunit.iml
+citrus-sample-cucumber-spring2.iml
