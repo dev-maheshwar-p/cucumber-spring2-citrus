@@ -26,6 +26,6 @@
   
   <modules>
     <module>java-dsl</module>
-    <module>xml</module>
+    <module>todo-app</module>
   </modules>
 </project>

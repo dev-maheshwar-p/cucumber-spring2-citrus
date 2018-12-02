@@ -106,7 +106,7 @@ public class TodoSteps extends TestNGCitrusTestDesigner{
          */
 
 
-//        System.setProperty("webdriver.chrome.driver", "/Users/dmp001j/IdeaProjects/citrus-samples/samples-cucumber/sample-cucumber-spring2/java-dsl/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/dmp001j/IdeaProjects/citrus-samples/samples-cucumber/sample-cucumber-spring2/java-dsl/chromedriver");
 
 
         designer.selenium()
